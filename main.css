@@ -111,13 +111,18 @@ a:hover {
 .footer a {
 	color: #666;
 	font:13px arial, sans-serif;
+	line-height: 40px;
 }
-.right {
+.right a{
 	float: right;
 	display: inline;
+	margin-right: 30px;
+	padding-top: 1px;
 }
-.left {
+.left a{
 	float: left;
 	display: inline;
+	margin-left: 30px;
+	padding-top: 1px;
 }
 
